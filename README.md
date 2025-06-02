@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/cultxr">
-    <img src="https://komarev.com/ghpvc/?username=DanielH131COL&color=red">
+    <img src="https://komarev.com/ghpvc/?username=cultxr&color=red">
   </a>
 </p>
 
